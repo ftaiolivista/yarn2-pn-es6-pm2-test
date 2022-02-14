@@ -1,0 +1,11 @@
+{
+  "name": "srv",
+  "type": "module",
+  "packageManager": "yarn@3.1.1",
+  "dependencies": {
+    "koa": "^2.13.4"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
